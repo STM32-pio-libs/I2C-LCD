@@ -1,0 +1,26 @@
+{
+  "name": "HelloWorld",
+  "version": "1.0.0",
+  "description": "A \"Hello world\" program is a computer program that outputs \"Hello World\" (or some variant) on a display device",
+  "keywords": "stm32, I2C, LCD, ",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/STM32-pio-libs/I2C-LCD"
+  },
+  "authors":
+  [
+    {
+      "name": "Anurag Kumar Singh",
+      "email": "anurag3301.0x0@gmail.com",
+      "url": "https://github.com/anurag3301",
+      "maintainer": true
+    },
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/STM32-pio-libs",
+  "dependencies": {
+  },
+  "frameworks": "stm32cube",
+  "platforms": "ststm32"
+}
